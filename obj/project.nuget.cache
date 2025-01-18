@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wGsEexRbGWo=",
+  "success": true,
+  "projectFilePath": "/home/pale/RiderProjects/GBVLightingPlayground/GBVLightingPlayground.csproj",
+  "expectedPackageFiles": [
+    "/home/pale/.nuget/packages/raylib-cs/7.0.0/raylib-cs.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
