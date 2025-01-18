@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GBVLightingPlayground")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cec60a24aaef4664d8e8a9763ed7743e26ac9ba0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GBVLightingPlayground")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GBVLightingPlayground")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
